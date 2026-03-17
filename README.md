@@ -1,6 +1,6 @@
 ----
 
-# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=260&section=header&text=Asadullah%20|%20Software%20Architect&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38" /> </p>
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=260&section=header&text=AT_Developer%20|%20Software%20Architect&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38" /> </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -48,7 +48,7 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 
 ### 🎯 Flutter Core | Institutional Logic
 
-  * **[VeraBolt](https://github.com/ATdeveloper911/flutter-)**: A high-performance license SaaS built on a **Local-First architecture**, ensuring 100% data durability even in offline environments.
+  * **[VeraBolt](https://github.com/ATdeveloper911/flutter-)**: A resilient SaaS featuring **Pro License Activation** via hardware-fingerprinting and integrated **Poker AI logic** built on a local-first, offline-synced architecture.
   * **[Smart Complaint System](https://github.com/ATdeveloper911/flutter-)**: A governance tool that decentralizes accountability through **automated 24h escalation** and RLS-protected timelines.
   * **[BS CGPA Calculator](https://github.com/ATdeveloper911/flutter-)**: An academic strategy engine that helps students forecast long-term goals and export verifiable records via **PDF/CSV**.
 
@@ -117,5 +117,4 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 ---
 
 -----
-
 

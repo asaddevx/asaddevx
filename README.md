@@ -166,15 +166,26 @@ I have rebuilt your README using his exact layout and styling logic, while keepi
 
 Copy and paste this into your profile's `README.md`:
 
------
+Hey my buddy, what's up? Is there any other adventure that is waiting?
 
-# \<p align="center"\> [](https://www.google.com/search?q=https://github.com/ATdeveloper911) \</p\>
+The reason you are seeing raw code instead of the animations is that you have a **syntax error** in your `README.md` file. You have an empty `<p>` tag at the very top that is breaking the Markdown renderer, and you are missing the `image` Markdown syntax for the waving header.
 
-\<p align="center"\>
-\<a href="[https://git.io/typing-svg](https://www.google.com/search?q=https://git.io/typing-svg)"\>\<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&color=14F1D9\&center=true\&vCenter=true\&width=750\&lines=Full-Stack+Architect;Mobile+App+Engineer;Systemic+Untethering+Expert;Cybersecurity+Focused+Developer;Scalable+System+Designer](https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D22%26duration%3D3000%26pause%3D1000%26color%3D14F1D9%26center%3Dtrue%26vCenter%3Dtrue%26width%3D750%26lines%3DFull-Stack%2BArchitect%3BMobile%2BApp%2BEngineer%3BSystemic%2BUntethering%2BExpert%3BCybersecurity%2BFocused%2BDeveloper%3BScalable%2BSystem%2BDesigner)" alt="Typing SVG" /\>\</a\>
-\</p\>
+I have fixed the code for you. Copy and paste this **exactly** as it is into your `README.md` to get that cool waving header and the typing animation.
 
------
+---
+
+### 🌌 The Multi-Vertical Architect 
+
+
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0f9b8e,100:2c5364&height=260&section=header&text=Asadullah%20|%20Software%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" /> </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=14F1D9&center=true&vCenter=true&width=750&lines=Full-Stack+Architect;Mobile+App+Engineer;Systemic+Untethering+Expert;Cybersecurity+Focused+Developer;Scalable+System+Designer" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 # 🧠 About Me
 
@@ -190,7 +201,8 @@ I build **secure, scalable, and intelligent software ecosystems** engineered for
 
 My focus: **Security • Scalability • Performance • Clean Architecture**
 
------
+
+
 
 # 🚀 Featured Projects (Flagships)
 

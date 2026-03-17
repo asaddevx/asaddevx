@@ -158,48 +158,46 @@ Across Fintech, Healthcare, and Institutional Management, operations are often p
 
 -----
 
-Hey my buddy, what's up? Is there any other adventure that is waiting?
 
-I’ve analyzed the `WaqarAnjum2` README and extracted the exact components he uses: **Capsule Render** for the waving header, **Typing SVG** for the animated titles, and the specific **Tokyo Night** theme for the GitHub analytics.
-
-I have rebuilt your README using his exact layout and styling logic, while keeping all your personal data and project details intact.
-
-Copy and paste this into your profile's `README.md`:
-
-Hey my buddy, what's up? Is there any other adventure that is waiting?
-
-The reason you are seeing raw code instead of the animations is that you have a **syntax error** in your `README.md` file. You have an empty `<p>` tag at the very top that is breaking the Markdown renderer, and you are missing the `image` Markdown syntax for the waving header.
-
-I have fixed the code for you. Copy and paste this **exactly** as it is into your `README.md` to get that cool waving header and the typing animation.
 
 ---
-
-### 🌌 The Multi-Vertical Architect 
-
-
-# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0f9b8e,100:2c5364&height=260&section=header&text=Asadullah%20|%20Software%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" /> </p>
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Asadullah%20|%20Software%20Architect&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=45&theme=rose" /> </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=14F1D9&center=true&vCenter=true&width=750&lines=Full-Stack+Architect;Mobile+App+Engineer;Systemic+Untethering+Expert;Cybersecurity+Focused+Developer;Scalable+System+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3500&pause=1000&color=FF2E63&center=true&vCenter=true&width=800&lines=Mastering+MERN+Stack;Flutter+Expert;React+Native+Specialist;Zero-Knowledge+Security+Architect;Offline-First+System+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-# 🧠 About Me
+## 🛰️ Systemic Vision
+I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-Synced Mobility**. My mission is **Systemic Untethering**—moving professional data from fixed desks to high-performance, resilient mobile ecosystems.
 
-I build **secure, scalable, and intelligent software ecosystems** engineered for performance and long-term maintainability.
+### 🛠️ Core Verticals
+* 🚀 **Full-Stack Mastery**: Scalable MERN architectures with 0ms cloud-sync.
+* 📱 **Mobile Mobility**: High-fidelity Flutter & React Native applications.
+* 🛡️ **Hardened Security**: Zero-knowledge encryption and RLS-protected data vaults.
+* ⚡ **Local-First Logic**: Resilient systems built on Isar and Supabase Realtime.
 
-🔹 **Full-Stack Engineer** (MERN Stack)
+---
 
-🔹 **Cross-Platform Architect** (Flutter & React Native)
+## 📊 Performance Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ATdeveloper911&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATdeveloper911&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e" alt="Top Langs" />
+</p>
 
-🔹 **Security Engineer** (Zero-Knowledge & RLS)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ATdeveloper911&theme=dracula&bg_color=1a1a2e&hide_border=true&color=FF2E63&line=FF2E63" alt="Contribution Graph" />
+</p>
 
-🔹 **Systems Specialist** (Offline-First & Local-Sync)
+---
 
-My focus: **Security • Scalability • Performance • Clean Architecture**
+<div align="center">
+  <code>Portfolio: asad-portfolio-pi.vercel.app</code>  
+  <code>Email: asadullah.devop@gmail.com</code>
+</div>
 
 
 

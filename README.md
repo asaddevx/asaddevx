@@ -43,14 +43,14 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 ### 🌐 MERN Stack | Integrated Command Centers
 
   * **[BestPriceKSA](https://www.google.com/search?q=https://bestpriceksa.com/)**: An enterprise retail ERP that eliminated "Blind Profits" by centralizing inventory and finance into a single horizontal "Command Strip".
-  * **[AIILP](https://www.google.com/search?q=https://github.com/ATdeveloper911/mern-stack/tree/main/AIILP)**: An Academic-Industry Linkage Platform featuring **Bulk Student Onboarding (\<60s)** and real-time internship status tracking.
-  * **[BloodLink](https://www.google.com/search?q=https://github.com/ATdeveloper911/mern-stack/tree/main/blood_donations_system)**: A life-critical medical logistics system using **Socket.IO** to reduce matching latency during emergencies.
+  * **[AIILP](https://www.google.com/search?q=https://github.com/ATdeveloper911/mern-stack/tree/main/AIILP/)**: An Academic-Industry Linkage Platform featuring **Bulk Student Onboarding (\<60s)** and real-time internship status tracking.
+  * **[BloodLink](https://www.google.com/search?q=https://github.com/ATdeveloper911/mern-stack/tree/main/blood_donations_system/)**: A life-critical medical logistics system using **Socket.IO** to reduce matching latency during emergencies.
 
 ### 🎯 Flutter Core | Institutional Logic
 
-  * **[VeraBolt](https://github.com/ATdeveloper911/flutter-)**: A resilient SaaS featuring **Pro License Activation** via hardware-fingerprinting and integrated **Poker AI logic** built on a local-first, offline-synced architecture.
-  * **[Smart Complaint System](https://github.com/ATdeveloper911/flutter-)**: A governance tool that decentralizes accountability through **automated 24h escalation** and RLS-protected timelines.
-  * **[BS CGPA Calculator](https://github.com/ATdeveloper911/flutter-)**: An academic strategy engine that helps students forecast long-term goals and export verifiable records via **PDF/CSV**.
+  * **[VeraBolt](https://github.com/ATdeveloper911/flutter-/)**: A resilient SaaS featuring **Pro License Activation** via hardware-fingerprinting and integrated **Poker AI logic** built on a local-first, offline-synced architecture.
+  * **[Smart Complaint System](https://github.com/ATdeveloper911/flutter-/)**: A governance tool that decentralizes accountability through **automated 24h escalation** and RLS-protected timelines.
+  * **[BS CGPA Calculator](https://github.com/ATdeveloper911/flutter-/)**: An academic strategy engine that helps students forecast long-term goals and export verifiable records via **PDF/CSV**.
 
 ### 📱 React Native | Cloud-Synced Mobility
 

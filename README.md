@@ -77,12 +77,13 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 
 ## 📊 Performance Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATdeveloper911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATdeveloper911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ATdeveloper911&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=22" alt="GitHub Stats" />
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATdeveloper911&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0,1e1b4b,2a265f,312e81&title_color=a5b4fc&text_color=e0e7ff&icon_color=14b8a6&langs_count=10&border_radius=22" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATdeveloper911&theme=tokyonight&hide_border=true&background=0f2027" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATdeveloper911&theme=tokyonight&hide_border=true&background=0f2027&border_radius=22" alt="Streak Stats" />
 </p>
 
 ---

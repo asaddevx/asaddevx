@@ -43,20 +43,20 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 ### 🌐 MERN Stack | Integrated Command Centers
 
   * **[BestPriceKSA](https://www.google.com/search?q=https://bestpriceksa.com/)**: An enterprise retail ERP that eliminated "Blind Profits" by centralizing inventory and finance into a single horizontal "Command Strip".
-  * **[AIILP](https://github.com/ATdeveloper911/mern-stack/)**: An Academic-Industry Linkage Platform featuring **Bulk Student Onboarding (\<60s)** and real-time internship status tracking.
-  * **[BloodLink](https://github.com/ATdeveloper911/mern-stack/)**: A life-critical medical logistics system using **Socket.IO** to reduce matching latency during emergencies.
+  * **[AIILP](https://github.com/asaddevx/mern-stack/)**: An Academic-Industry Linkage Platform featuring **Bulk Student Onboarding (\<60s)** and real-time internship status tracking.
+  * **[BloodLink](https://github.com/asaddevx/mern-stack/)**: A life-critical medical logistics system using **Socket.IO** to reduce matching latency during emergencies.
 
 ### 🎯 Flutter Core | Institutional Logic
 
-  * **[VeraBolt](https://github.com/ATdeveloper911/flutter-/)**: A resilient SaaS featuring **Pro License Activation** via hardware-fingerprinting and integrated **Poker AI logic** built on a local-first, offline-synced architecture.
-  * **[Smart Complaint System](https://github.com/ATdeveloper911/flutter-/)**: A governance tool that decentralizes accountability through **automated 24h escalation** and RLS-protected timelines.
-  * **[BS CGPA Calculator](https://github.com/ATdeveloper911/flutter-/)**: An academic strategy engine that helps students forecast long-term goals and export verifiable records via **PDF/CSV**.
+  * **[VeraBolt](https://github.com/asaddevx/flutter-/)**: A resilient SaaS featuring **Pro License Activation** via hardware-fingerprinting and integrated **Poker AI logic** built on a local-first, offline-synced architecture.
+  * **[Smart Complaint System](https://github.com/asaddevx/flutter-/)**: A governance tool that decentralizes accountability through **automated 24h escalation** and RLS-protected timelines.
+  * **[BS CGPA Calculator](https://github.com/asaddevx/flutter-/)**: An academic strategy engine that helps students forecast long-term goals and export verifiable records via **PDF/CSV**.
 
 ### 📱 React Native | Cloud-Synced Mobility
 
-  * **[Gold Bazar](https://github.com/ATdeveloper911/react-native/)**: A physics-based laboratory suite implementing **Archimedes' Principle** and traditional **Tola/Masha/Ratti** weight conversion.
-  * **[MindSpace](https://github.com/ATdeveloper911/react-native/)**: A mental wellness ecosystem that leverages **Gemini AI for Sentiment Analysis** to provide actionable wellness data.
-  * **[Smart Budget Analyzer](https://github.com/ATdeveloper911/react-native/)**: Transforming raw transaction data into actionable financial strategy through **automated categorization** and predictive spending alerts.
+  * **[Gold Bazar](https://github.com/asaddevx/react-native/)**: A physics-based laboratory suite implementing **Archimedes' Principle** and traditional **Tola/Masha/Ratti** weight conversion.
+  * **[MindSpace](https://github.com/asaddevx/react-native/)**: A mental wellness ecosystem that leverages **Gemini AI for Sentiment Analysis** to provide actionable wellness data.
+  * **[Smart Budget Analyzer](https://github.com/asaddevx/react-native/)**: Transforming raw transaction data into actionable financial strategy through **automated categorization** and predictive spending alerts.
 
 -----
 
@@ -77,13 +77,13 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 
 ## 📊 Performance Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATdeveloper911&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=22" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asaddevx&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=22" alt="GitHub Stats" />
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATdeveloper911&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a192f&title_color=a5b4fc&text_color=e0e7ff&icon_color=14b8a6&langs_count=10&border_radius=22" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaddevx&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a192f&title_color=a5b4fc&text_color=e0e7ff&icon_color=14b8a6&langs_count=10&border_radius=22" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATdeveloper911&theme=tokyonight&hide_border=true&background=0f2027&border_radius=22" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asaddevx&theme=tokyonight&hide_border=true&background=0f2027&border_radius=22" alt="Streak Stats" />
 </p>
 
 ---
@@ -91,7 +91,7 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 # 🌊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ATdeveloper911&theme=react-dark&bg_color=0a192f&hide_border=true&color=00F5FF&line=00F5FF&radius=16" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asaddevx&theme=react-dark&bg_color=0a192f&hide_border=true&color=00F5FF&line=00F5FF&radius=16" alt="Contribution Graph" />
 </p>
 
 

@@ -9,7 +9,7 @@
 
 ---
 
-# 🧠 About Me
+# 🧠 About Me:
 
 I build **secure, scalable, and intelligent software ecosystems** engineered for performance and long-term maintainability.
 

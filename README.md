@@ -9,7 +9,7 @@
 
 ---
 
-# 🧠 About Me:
+# 🧠 About Me
 
 I build **secure, scalable, and intelligent software ecosystems** engineered for performance and long-term maintainability.
 
@@ -25,12 +25,12 @@ My focus: **Security • Scalability • Performance • Clean Architecture**
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies
 <p align="center">
 <img src="https://github-trophies.vercel.app/?username=asaddevx&theme=juicyfresh&no-frame=true&row=3&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
-## 🛰️ Systemic Vision
+## 🛰️ Systemic Vision:
 I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-Synced Mobility**. My mission is **Systemic Untethering**—moving professional data from fixed desks to high-performance, resilient mobile ecosystems.
 
 ### 🛠️ Core Verticals
